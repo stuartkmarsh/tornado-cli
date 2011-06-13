@@ -1,0 +1,2 @@
+recursive-include tornado_cli/project_template/templates *
+recursive-include tornado_cli/project_template/media *
